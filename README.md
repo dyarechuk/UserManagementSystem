@@ -8,14 +8,14 @@ This is a **CRUD application** built using **React** and **Vite**. It provides t
 
 ## 🌟 Key Features
 
-✅ **User List**: View and manage users in a simple, responsive DataGrid.
-➕ **Create User**: Add new users with real-time form validation.
-✏️ **Edit User**: Update user information easily.
-❌ **Delete User**: Remove users with a confirmation prompt.
-✔️ **Form Validation**: Validate user data (name, email, phone) using React Hook Form and Zod.
-🎯 **Notifications**: Get instant feedback with toast notifications (success/error).
-🔬 **Unit Tests**: Thorough testing of components and API logic.
-⚡ **Optimized Architecture**: FSD-style project structure for easy extensibility.
+- ✅ **User List**: View and manage users in a simple, responsive DataGrid.
+- ➕ **Create User**: Add new users with real-time form validation.
+- ✏️ **Edit User**: Update user information easily.
+- ❌ **Delete User**: Remove users with a confirmation prompt.
+- ✔️ **Form Validation**: Validate user data (name, email, phone) using React Hook Form and Zod.
+- 🎯 **Notifications**: Get instant feedback with toast notifications (success/error).
+- 🔬 **Unit Tests**: Thorough testing of components and API logic.
+- ⚡ **Optimized Architecture**: FSD-style project structure for easy extensibility.
 
 ---
 
